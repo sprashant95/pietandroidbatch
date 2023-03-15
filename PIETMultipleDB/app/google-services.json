@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888965154855",
+    "project_id": "pietmultipledb",
+    "storage_bucket": "pietmultipledb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888965154855:android:9fc5ce53149f642c6ee602",
+        "android_client_info": {
+          "package_name": "com.example.pietmultipledb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888965154855-1tngvskqpe0mmh725chcijrdrefr7ad9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8RMrB5hJf7ABg5G1fZFpL7Atx3KxOrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888965154855-1tngvskqpe0mmh725chcijrdrefr7ad9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

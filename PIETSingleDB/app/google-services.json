@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43606067293",
+    "firebase_url": "https://pietsingledb-default-rtdb.firebaseio.com",
+    "project_id": "pietsingledb",
+    "storage_bucket": "pietsingledb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43606067293:android:62ae62dc680e18811e25b4",
+        "android_client_info": {
+          "package_name": "com.example.pietsingledb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43606067293-4793okncbdb4fvr85rve69jm1kvruahp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-zjkKrmR3cloAzr0wQTt6ACgd33yyzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43606067293-4793okncbdb4fvr85rve69jm1kvruahp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
